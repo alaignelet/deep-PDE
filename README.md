@@ -1,2 +1,3 @@
 # deep-PDE
-Solve high dimensional PDEs 
+Using deep learning approaches to solve partial differential equation in high dimen-
+sions. Example on the Black-Scholes equation.
