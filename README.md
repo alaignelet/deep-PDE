@@ -1,6 +1,5 @@
 # deep-PDE
-Using deep learning approaches to solve partial differential equation in high dimen-
-sions. Example on the Black-Scholes equation.
+Using deep learning approaches to solve partial differential equation in high dimensions. Example on the Black-Scholes equation.
 
 The main file to configure and run the model is:
 - FBSNN.ipynb
